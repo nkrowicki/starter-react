@@ -1,7 +1,7 @@
 # Starter Kit
 
 ## Description
-'Starter Kit for React': React + Webpack + Babel + SCSS 
+'Simple Starter Kit for React': React + Webpack + Babel + SCSS 
 
 ### Technologies
 
