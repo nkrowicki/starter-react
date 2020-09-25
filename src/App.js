@@ -1,10 +1,11 @@
 import React from 'react'
+import './styles/styles.scss'
 import styles from './App.module.scss';
-console.log(styles)
+
 const App = () => {
     return (
         <div className={styles.app}>
-            <h1>Hola React</h1>
+            <h1>Nahuel Krowicki</h1>
         </div>
     )
 }
